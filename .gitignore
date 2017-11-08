@@ -56,3 +56,6 @@ mocks_data/proxy/**/__*
 .nicetmp
 
 !.eslintrc.js
+
+# others
+package-lock.json

@@ -6,6 +6,7 @@ Build chrome extensions with TypeScript React.
 ```bash
 npm install yo chrome-extension-tsx -g
 mkdir generator-example && cd generator-example && yo chrome-extension-tsx
+npm run wp
 ```
 
 ### Other recommended generators
