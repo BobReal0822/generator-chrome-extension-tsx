@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "allowJs": false,
+        "newLine": "LF",
+        "jsx": "react",
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "diagnostics": true,
+        "experimentalDecorators": true,
+        "forceConsistentCasingInFileNames": true,
+        "pretty": true,
+        "removeComments": true,
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "declaration": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitThis": true,
+        "stripInternal": true,
+        "skipDefaultLibCheck": true,
+        "outDir": "build"
+    },
+    "exclude": [
+        "dist",
+        "node_modules"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "github-loc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "wp": "webpack --config config/webpack.config.js -w",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephoton/github-loc.git"
+  },
+  "author": "ephoton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ephoton/github-loc/issues"
+  },
+  "homepage": "https://github.com/ephoton/github-loc#readme",
+  "dependencies": {
+    "@types/chrome": "^0.0.50",
+    "@types/react": "^16.0.16",
+    "@types/react-dom": "^16.0.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.7",
+    "less": "^3.0.0-alpha.3",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.19.0",
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.5.3",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
