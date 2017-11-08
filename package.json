@@ -1,7 +1,7 @@
 {
-  "name": "generator-",
+  "name": "generator-chrome-extension-tsx",
   "version": "1.0.0",
-  "description": "",
+  "description": "Build chrome extensions with TypeScript React.",
   "main": "index.js",
   "files": [
     "generators"
@@ -9,7 +9,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:ephoton/generator-chrome-extension-tsx.git"
   },
   "keywords": [
     "yeoman-generator"
