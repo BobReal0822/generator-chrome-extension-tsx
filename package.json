@@ -1,6 +1,6 @@
 {
   "name": "generator-chrome-extension-tsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build chrome extensions with TypeScript React.",
   "main": "index.js",
   "files": [
